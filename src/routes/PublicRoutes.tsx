@@ -6,7 +6,7 @@ export const PublicRoutes = () => {
     return (
         <Routes>
             <Route path='login' element={<LoginPage />} />
-            <Route path='/*' element={<Navigate to='/auth/login' replace />} />
+            <Route path='*' element={<Navigate to='/login' replace />} />
         </Routes>
     );
 };
