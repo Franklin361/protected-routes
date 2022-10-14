@@ -50,6 +50,6 @@ This time, we are going to create protected routes with React Router Dom!
 
 ### Here's the link to the tutorial in case you'd like to take a look at it! eyes 👀
 
-- 🇲🇽 🔗 
+- 🇲🇽 🔗 https://dev.to/franklin030601/proteccion-de-rutas-con-react-router-dom-144j
 
-- 🇺🇲 🔗 
+- 🇺🇲 🔗 https://dev.to/franklin030601/route-protection-with-react-router-dom-12gm
